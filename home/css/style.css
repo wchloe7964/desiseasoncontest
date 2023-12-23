@@ -20,7 +20,7 @@ h1,h2,h3,h4,h5,h6,p,span,form,input,a,p,div{margin:0;padding:0;}
 
   body{font-family: 'Gotham-Medium';}
 
-.top-shade{display:block;overflow: hidden;height:10px; background-color: #a64ac9;}
+.top-shade{display:block;overflow: hidden;height:10px; background-color: #0a59b3;}
 
 .logo{text-align: center;}
 
@@ -82,7 +82,7 @@ h1,h2,h3,h4,h5,h6,p,span,form,input,a,p,div{margin:0;padding:0;}
 
 #contestents,#judges,#about-s3{text-align:center;}
 
-#about-s3 .heading,#judges .heading,#contestents .heading{width:100%; padding:16px 0; background:#a64ac9;margin-top:20px;margin-bottom:20px;}
+#about-s3 .heading,#judges .heading,#contestents .heading{width:100%; padding:16px 0; background:#0a59b3;margin-top:20px;margin-bottom:20px;}
 
 #about-s3 .heading h2,#judges .heading h2,#contestents .heading h2{color:#ffffff;font-size:20px;}
 
